@@ -2,4 +2,4 @@
 
 * Dark blue: #012340
 * Light blue: #03588C
-* [Wallpaper](wallpaper.png)
+* [Wallpaper](wallpaper.jpg)
